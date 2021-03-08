@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Flash Type
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About :
 
-## Available Scripts
+This is a react based (side) project intended to practice help you in typing fast and correct. This project is entirely built from scratch. You can see the live deme [Here](https://kaiwalyakoparkar.github.io/flashtype)
 
-In the project directory, you can run:
+## Pre-requisites
 
-### `npm start`
+1. Basic Computer configuration
+2. Node js installed
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Contribution :
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Contribution to this repos are always welcome. You can alwas upgrade the UI, or fix any bug predefined in the issue section.
 
-### `npm test`
+For new contibution or feature : 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Open a new issue describing the feature.
+2. Add feature tag to this issue.
+3. Get acceptance from the code maintainers
+4. Enjoy adding the feature
 
-### `npm run build`
+## Steps to contibute :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Fork the project:
+Fork the project from https://github.com/kaiwalyakoparkar/flashtype/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Clonning the project :
+```git
+git clone https://github.com/<your-user-name>/flashtype.git
+```
+3. Open the project in your desired text editor
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. run the following command int terminal to see the live output
+```node
+npm start
+```
+5. Now go to the components folder and choose the component you want to add feature to.
 
-### `npm run eject`
+6. after specified changes document the changes in changes.md
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+7. run the following command to generate the build folder
+```node
+npm run build
+```
+8. Now deploy the application to your copy
+```node
+npm deploy
+```
+9. Now create a pull request to the parent repository
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+10. Wait for acceptance ! Best of luck
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Current to-do-list :
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Navbar [Done]
+2. Landing [Undone]
+3. Typing Challenge [Undone]
+4. Footer
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
