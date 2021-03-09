@@ -62,7 +62,7 @@ npm deploy
 ## Current to-do-list :
 
 1. Navbar [Done]
-2. Landing [Undone]
+2. Landing [Done]
 3. Typing Challenge [Undone]
 4. Footer
 
