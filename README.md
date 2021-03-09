@@ -1,12 +1,12 @@
 # Flash Type
-[![Fork badge](https://img.shields.io/github/forks/kaiwalyakoparkar/flashtype)
-[![issue badge](https://img.shields.io/github/issues/kaiwalyakoparkar/flashtype)
-[![stars badge](https://img.shields.io/github/stars/kaiwalyakoparkar/flashtype)
-[![licence badge](https://img.shields.io/github/license/kaiwalyakoparkar/flashtype)
-[![no of languages](https://img.shields.io/github/languages/count/kaiwalyakoparkar/flashtype)
-[![build passing](https://img.shields.io/appveyor/build/kaiwalyakoparkar/flashtype)
-[![commit history](https://img.shields.io/github/commits-since/kaiwalyakoparkar/flashtype/1.0.0/master)
-[![dependencies](https://img.shields.io/depfu/:user/:repo)]
+![Fork badge](https://img.shields.io/github/forks/kaiwalyakoparkar/flashtype)
+![issue badge](https://img.shields.io/github/issues/kaiwalyakoparkar/flashtype)
+![stars badge](https://img.shields.io/github/stars/kaiwalyakoparkar/flashtype)
+![licence badge](https://img.shields.io/github/license/kaiwalyakoparkar/flashtype)
+![no of languages](https://img.shields.io/github/languages/count/kaiwalyakoparkar/flashtype)
+![build passing](https://img.shields.io/appveyor/build/kaiwalyakoparkar/flashtype)
+![commit history](https://img.shields.io/github/commits-since/kaiwalyakoparkar/flashtype/1.0.0/master)
+![dependencies](https://img.shields.io/depfu/:user/:repo)
 
 ## About :
 
