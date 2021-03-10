@@ -3,6 +3,7 @@ import "./App.css";
 import Nav from './../Nav/Nav';
 import Landing from './../Landing/Landing';
 import Footer from './../Footer/Footer';
+import ChallengeSection from './../ChallengeSection/ChallengeSection';
 
 class App extends React.Component {
     render(){
@@ -13,6 +14,7 @@ class App extends React.Component {
             {/*Landing page*/}
             <Landing />
             {/**Challenge section */}
+            <ChallengeSection/>
             {/**footer component */}
             <Footer />
             </div>
