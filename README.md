@@ -64,7 +64,7 @@ npm deploy
 1. Navbar [Done]
 2. Landing [Done]
 3. Typing Challenge [Undone]
-4. Footer
+4. Footer [Done]
 
 ## Contributors & Maintaiers
 [Kaiwalya Koparkar](https://kaiwalyakoparkar.github.io/)
