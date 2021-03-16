@@ -10,7 +10,7 @@
 
 ## About :
 
-This is a react based (side) project intended to practice help you in typing fast and correct. This project is entirely built from scratch. You can see the live deme [Here](https://kaiwalyakoparkar.github.io/flashtype)
+This is a react based (side) project intended to practice help you in typing fast and correct. This project is entirely built from scratch. You can see the live demo [Here](https://kaiwalyakoparkar.github.io/flashtype)
 
 ## Pre-requisites
 
