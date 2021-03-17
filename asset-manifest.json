@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kaiwalyakoparkar/flashtype/static/css/main.ac0ebccf.chunk.css",
+    "main.js": "/kaiwalyakoparkar/flashtype/static/js/main.5e1eaa2a.chunk.js",
+    "main.js.map": "/kaiwalyakoparkar/flashtype/static/js/main.5e1eaa2a.chunk.js.map",
+    "runtime-main.js": "/kaiwalyakoparkar/flashtype/static/js/runtime-main.af1056fc.js",
+    "runtime-main.js.map": "/kaiwalyakoparkar/flashtype/static/js/runtime-main.af1056fc.js.map",
+    "static/js/2.2ba1f273.chunk.js": "/kaiwalyakoparkar/flashtype/static/js/2.2ba1f273.chunk.js",
+    "static/js/2.2ba1f273.chunk.js.map": "/kaiwalyakoparkar/flashtype/static/js/2.2ba1f273.chunk.js.map",
+    "index.html": "/kaiwalyakoparkar/flashtype/index.html",
+    "static/css/main.ac0ebccf.chunk.css.map": "/kaiwalyakoparkar/flashtype/static/css/main.ac0ebccf.chunk.css.map",
+    "static/js/2.2ba1f273.chunk.js.LICENSE.txt": "/kaiwalyakoparkar/flashtype/static/js/2.2ba1f273.chunk.js.LICENSE.txt",
+    "static/media/hero.96e141d3.png": "/kaiwalyakoparkar/flashtype/static/media/hero.96e141d3.png",
+    "static/media/logo.904ac8fd.png": "/kaiwalyakoparkar/flashtype/static/media/logo.904ac8fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af1056fc.js",
+    "static/js/2.2ba1f273.chunk.js",
+    "static/css/main.ac0ebccf.chunk.css",
+    "static/js/main.5e1eaa2a.chunk.js"
+  ]
+}
