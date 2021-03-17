@@ -3,16 +3,15 @@ import './TestLetter.css';
 
 const TestLetter = ({individualLetterInfo}) => {
     const {status} = individualLetterInfo;
-    let statusClass;
 
     const statusClassName = {
-        correct : "test-letter-correct",
-        incorrect : "test-letter-incorrect",
-        notAttempted : "test-letter-not-attempted",
-    }[status]
+        correct: "test-letter-correct",
+        incorrect: "test-letter-incorrect",
+        notAttempted: "test-letter-not-attempted",
+    }[status];
 
     return (
-        <span className={`test-letter ${statusClass}`}>
+        <span className= {`test-letter ${statusClassName}`}>
         {individualLetterInfo.testLetter}
         </span>
     );
