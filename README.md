@@ -1,23 +1,41 @@
-# Flash Type
+<h1 align="center">
+    ⚡ Flash Type ⚡
+</h1>
+
+<div align="center">
+
 ![Fork badge](https://img.shields.io/github/forks/kaiwalyakoparkar/flashtype)
 ![issue badge](https://img.shields.io/github/issues/kaiwalyakoparkar/flashtype)
 ![stars badge](https://img.shields.io/github/stars/kaiwalyakoparkar/flashtype)
 ![licence badge](https://img.shields.io/github/license/kaiwalyakoparkar/flashtype)
 ![no of languages](https://img.shields.io/github/languages/count/kaiwalyakoparkar/flashtype)
-![build passing](https://img.shields.io/appveyor/build/kaiwalyakoparkar/flashtype)
 ![commit history](https://img.shields.io/github/commits-since/kaiwalyakoparkar/flashtype/1.0.0/master)
-![dependencies](https://img.shields.io/depfu/kaiwalyakoparkar/flashtype)
 
-## About :
+</div>
+
+## 📌About :
 
 This is a react based (side) project intended to practice help you in typing fast and correct. This project is entirely built from scratch. You can see the live demo [Here](https://kaiwalyakoparkar.github.io/flashtype)
 
-## Pre-requisites
+## 📌Live Demo:
+
+![Live Demo](https://github.com/kaiwalyakoparkar/flashtype/blob/master/doc_images/FlashType.avi)
+
+## 📌Wire Framed Diagram:
+
+<img src = "./doc_images/WireFrame1.png" width="500px"/>
+<img src = "./doc_images/WireFrame2.png" width="500px"/>
+
+## 📌Structural Diagram:
+
+<img src = "./doc_images/StructuralFames.png" width="500px"/>
+
+## 📌Pre-requisites
 
 1. Basic Computer configuration
 2. Node js installed
 
-## Contribution :
+## 📌Contribution :
 
 Contribution to this repos are always welcome. You can alwas upgrade the UI, or fix any bug predefined in the issue section.
 
@@ -28,7 +46,7 @@ For new contibution or feature :
 3. Get acceptance from the code maintainers
 4. Enjoy adding the feature
 
-## Steps to contibute :
+## 📌Steps to contibute :
 
 1. Fork the project:
 Fork the project from https://github.com/kaiwalyakoparkar/flashtype/
@@ -59,12 +77,5 @@ npm deploy
 
 10. Wait for acceptance ! Best of luck
 
-## Current to-do-list :
-
-1. Navbar [Done]
-2. Landing [Done]
-3. Typing Challenge [Undone]
-4. Footer [Done]
-
-## Contributors & Maintaiers
+## 📌Contributors & Maintaiers
 [Kaiwalya Koparkar](https://kaiwalyakoparkar.github.io/)
