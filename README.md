@@ -46,6 +46,10 @@ For new contibution or feature :
 3. Get acceptance from the code maintainers
 4. Enjoy adding the feature
 
+Please read the following first before contributing:
+- [Contribution Guidelines](https://github.com/kaiwalyakoparkar/flashtype/blob/master/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/kaiwalyakoparkar/flashtype/blob/master/CODE_OF_CONDUCT.md)
+
 ## 📌Steps to contibute :
 
 1. Fork the project:
