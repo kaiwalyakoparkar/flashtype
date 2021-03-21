@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-
+    
 ![Fork badge](https://img.shields.io/github/forks/kaiwalyakoparkar/flashtype)
 ![issue badge](https://img.shields.io/github/issues/kaiwalyakoparkar/flashtype)
 ![stars badge](https://img.shields.io/github/stars/kaiwalyakoparkar/flashtype)
@@ -12,6 +12,10 @@
 ![commit history](https://img.shields.io/github/commits-since/kaiwalyakoparkar/flashtype/1.0.0/master)
 
 </div>
+
+## ❤️ Note for new Contributors : ❤️
+
+Thank you very much for considering this project. Make sure you read [Code of Conduct](https://github.com/kaiwalyakoparkar/flashtype/blob/master/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/kaiwalyakoparkar/flashtype/blob/master/CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
 
 ## 📌About :
 
@@ -45,10 +49,6 @@ For new contibution or feature :
 2. Add feature tag to this issue.
 3. Get acceptance from the code maintainers
 4. Enjoy adding the feature
-
-Please read the following first before contributing:
-- [Contribution Guidelines](https://github.com/kaiwalyakoparkar/flashtype/blob/master/CONTRIBUTING.md)
-- [Code of Conduct](https://github.com/kaiwalyakoparkar/flashtype/blob/master/CODE_OF_CONDUCT.md)
 
 ## 📌Steps to contibute :
 
