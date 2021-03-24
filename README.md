@@ -23,7 +23,7 @@ This is a react based (side) project intended to practice help you in typing fas
 
 ## 📌Live Demo:
 
-![Live Demo](https://github.com/kaiwalyakoparkar/flashtype/blob/master/doc_images/FlashType.gif)
+![Live Demo](./doc_images/FlashType.gif)
 
 ## 📌Wire Framed Diagram:
 
